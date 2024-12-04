@@ -36,7 +36,7 @@ public class App extends JFrame {
     String url = "jdbc:mysql://localhost:3306/";
     String dbName = "imagesdb";
     String userName = "root";
-    String password = "Iraklis190810";
+    String password = "hhhhhhh";
     Connection con = null;
 
     public App() {
